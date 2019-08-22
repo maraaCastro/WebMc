@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Mega&display=swap');
+#container{
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgba(143, 210, 255, 0.866);
+    padding: 1em;
+}
+h1{
+    font-family: 'Lexend Mega', sans-serif;
+    border-bottom: black 20px solid
+}
+.rojo{
+    color: red;
+}
+article {
+    border: double 3px black;
+    padding: 1em;
+}
+.primero {
+    margin: 80px 100px 100px 150px;
+    background-color: aliceblue;
+    padding: 1rem;
+    
+}
